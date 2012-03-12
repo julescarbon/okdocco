@@ -17,8 +17,6 @@ Note that the default Docco installation does not mention Perl's comment charact
 
 h2. Copyright
 
-Written in Perl because you can suck a mug ;-)
-
 OKFOCUS (c) 19112
 
 !http://i.asdf.us/im/e1/678_D_036_1331588699_ryz.gif! !http://i.asdf.us/im/98/houseplant3_1331588703_ryz.gif!
