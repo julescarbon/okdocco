@@ -3,11 +3,11 @@ h1. OKDocco
 
 Recursive documentation generator for your Rails app.
 
-Uses Docco -- `http://jashkenas.github.com/docco/`
+Uses Docco -- "http://jashkenas.github.com/docco/":http://jashkenas.github.com/docco/
 
 h2. Usage
 
-Generates documentation for `app` and this file.
+notextile. Generates documentation for <tt>app</tt> and this file.
 
 Optionally call it with several files on the commandline to document those instead.
 
@@ -17,5 +17,5 @@ Written in Perl because you can suck a mug ;-)
 
 OKFOCUS (c) 19112
 
-
+!http://i.asdf.us/im/e1/678_D_036_1331588699_ryz.gif! !http://i.asdf.us/im/98/houseplant3_1331588703_ryz.gif!
 
