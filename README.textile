@@ -7,7 +7,7 @@ Uses Docco -- "http://jashkenas.github.com/docco/":http://jashkenas.github.com/d
 
 h2. Usage
 
-notextile. Generates documentation for <tt>app</tt> and this file.
+notextile. By default it generates documentation for <tt>app</tt> and this file.
 
 Optionally call it with several files on the commandline to document those instead.
 
