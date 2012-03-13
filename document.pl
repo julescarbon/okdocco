@@ -22,7 +22,7 @@ our $MV_PATH = '/bin/mv';
 # We presume a Rails environment.
 # By default, running `./document.pl` will document the `app` directory, this file, and nothing else.
 sub run () {
-print "duh";
+
   if (scalar(@ARGV) == 0) {
     recurse("app");
     push(@files, "document.pl");
